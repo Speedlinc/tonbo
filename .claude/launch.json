@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tonbovpn",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd /Users/yangcheng/code/sulian-official-monorepo && pnpm run dev:tonbovpn"],
+      "port": 23014
+    }
+  ]
+}
